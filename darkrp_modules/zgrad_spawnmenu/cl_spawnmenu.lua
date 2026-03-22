@@ -1,2 +1,0 @@
--- Empty file to avoid conflicts with sh_spawnmenu.lua
--- ALL LOGIC HAS BEEN MOVED TO sh_spawnmenu.lua
